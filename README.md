@@ -7,3 +7,11 @@
 #### Container e server running show korbe. port click korle browser e show korbe.
 ![](https://imgur.com/0pJ4F0J.png)
 ![](https://imgur.com/i5yA05X.png)
+
+---
+
+#### Host port:0 diye run korle rendom port dibe.
+![](https://imgur.com/gZtg2vw.png)
+#### Host port:0 diye run korle rendom port dibe.
+![](https://imgur.com/Cdx0AbC.png)
+![](https://imgur.com/TU92wgX.png)
