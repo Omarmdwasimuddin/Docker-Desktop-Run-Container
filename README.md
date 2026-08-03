@@ -12,6 +12,6 @@
 
 #### Host port:0 diye run korle rendom port dibe.
 ![](https://imgur.com/gZtg2vw.png)
-#### Host port:0 diye run korle rendom port dibe.
+#### rendom port number
 ![](https://imgur.com/Cdx0AbC.png)
 ![](https://imgur.com/TU92wgX.png)
